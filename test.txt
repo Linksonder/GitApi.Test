@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 abcdef
+=======
+Paul is een goeie unit! 
+>>>>>>> 3c69fb62df71f624b5355c92d3a54266f8d6af23
