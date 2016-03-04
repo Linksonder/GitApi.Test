@@ -1,0 +1,87 @@
+{
+	"Week1": {
+		"url": "/week1",
+		"content": {
+			"Introductie": {
+				"type": "Text",
+				"url": "introductie.html"
+			},
+			"HTML": {
+				"type": "Text",
+				"url": "HTML.html"
+			},
+			"CSS": {
+				"type": "Text",
+				"url": "CSS.html"
+			}
+		}
+	},
+	"Week2": {
+		"url": "/week2",
+		"content": {
+			"Introductie": {
+				"type": "Text",
+				"url": "introductie.html"
+			},
+			"Fonts": {
+				"type": "Text",
+				"url": "Fonts.html"
+			},
+			"Layout": {
+				"type": "Text",
+				"url": "Layout.html"
+			}
+		}
+	},
+	"week3": {
+		"url": "/week2",
+		"content": {
+			"Introductie": {
+				"type": "Text",
+				"url": "introductie.html"
+			},
+			"Fonts": {
+				"type": "Text",
+				"url": "Fonts.html"
+			},
+			"Layout": {
+				"type": "Text",
+				"url": "Layout.html"
+			}
+		}
+	},
+	"week4": {
+		"url": "/week4",
+		"content": {
+			"Introductie": {
+				"type": "Text",
+				"url": "introductie.html"
+			},
+			"Fonts": {
+				"type": "Text",
+				"url": "Fonts.html"
+			},
+			"Layout": {
+				"type": "Text",
+				"url": "Layout.html"
+			}
+		}
+	},
+	"week44": {
+		"url": "/week4",
+		"content": {
+			"Introductie": {
+				"type": "Text",
+				"url": "introductie.html"
+			},
+			"Fonts": {
+				"type": "Text",
+				"url": "Fonts.html"
+			},
+			"Layout": {
+				"type": "Text",
+				"url": "Layout.html"
+			}
+		}
+	}
+}
